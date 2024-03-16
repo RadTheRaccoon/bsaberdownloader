@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "bsaberdownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "beatsaver://37000/"
+    }
+  }
+}
