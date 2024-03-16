@@ -1,4 +1,5 @@
-﻿using FileDownloader;
+﻿using bsaberdownloader.Downloaders;
+using FileDownloader;
 using System.IO.Compression;
 
 namespace bsaberdownloader

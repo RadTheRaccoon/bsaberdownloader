@@ -1,4 +1,4 @@
-﻿namespace bsaberdownloader
+﻿namespace bsaberdownloader.Downloaders
 {
     internal class Curator
     {

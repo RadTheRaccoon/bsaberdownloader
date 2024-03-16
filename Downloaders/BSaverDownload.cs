@@ -29,7 +29,6 @@ namespace bsaberdownloader.Downloaders
             }
 
             var mapInfo = JsonSerializer.Deserialize<MapInfo>(mapDataResp!);
-            string mapName = $"{mapInfo!.Id} ({mapInfo.Name})"!;
 
             return mapInfo;
         }
